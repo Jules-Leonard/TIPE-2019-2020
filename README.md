@@ -9,7 +9,7 @@ Pour concevoir l'hélice: https://www.blender.org/
 
 Pour la théorie : Hydrodynamique navale: Théorie et modèles (a voir à la librairie Kleber) et du même auteur: Hydrodynamique navale
 
-
+https://www.tinkercad.com/ pour de la modélisation pas ouf (mais on peut imprimer en 3D mskn)
 
 
 
